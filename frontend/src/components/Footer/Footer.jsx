@@ -9,7 +9,6 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
           <img className='tomatologofooter' src={assets.zomato} alt="" />
-          <p>This website is just for my portfolio, it's not a real website.</p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
