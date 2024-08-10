@@ -61,6 +61,7 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
+import banner3 from '.banner3.png'
 
 export const assets = {
     logo,
@@ -68,6 +69,7 @@ export const assets = {
     foodlogo,
     basket_icon,
     header_img,
+    banner3,
     search_icon,
     rating_starts,
     add_icon_green,
