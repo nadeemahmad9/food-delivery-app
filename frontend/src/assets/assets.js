@@ -45,6 +45,7 @@ import food_29 from './food_29.png'
 import food_30 from './food_30.png'
 import food_31 from './food_31.png'
 import food_32 from './food_32.png'
+import pizza from './pizza.png'
 
 import add_icon_white from './add_icon_white.png'
 import add_icon_green from './add_icon_green.png'
@@ -118,7 +119,12 @@ export const menu_list = [
     {
         menu_name: "Noodles",
         menu_image: menu_8
-    }]
+    },
+    {
+        menu_name: "Pizza",
+        menu_image: menu_9
+    }
+]
 
 export const food_list = [
     {
