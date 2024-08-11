@@ -356,5 +356,14 @@ export const food_list = [
         price: 15,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Noodles"
+    },
+    {
+         _id: "33",
+        name: "Pizza",
+        image: pizza,
+        price: 50,
+        description: "Food provides essential nutrients for overall health and well-being",
+        category: "Pizza"
     }
+    
 ]
