@@ -28,7 +28,7 @@ import food_12 from './food_12.png'
 import food_13 from './food_13.png'
 import food_14 from './food_14.png'
 import food_15 from './food_15.png'
-import food_16 from './food_16.png'
+import food16 from './food16.png'
 import food_17 from './food_17.png'
 import food_18 from './food_18.png'
 import food_19 from './food_19.png'
@@ -237,7 +237,7 @@ export const food_list = [
     }, {
         _id: "16",
         name: "Bread Sandwich",
-        image: food_16,
+        image: food16,
         price: 24,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
